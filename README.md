@@ -1,4 +1,7 @@
-# cs207-FinalProject
+# pydif
+
+see: docs/pydif_docs_final.ipynb for documentation
+try out the package! (see: https://pypi.org/project/pydif/)
 
 Group Name:
 
