@@ -1,6 +1,7 @@
 # pydif
 
-see: docs/pydif_docs_final.ipynb for documentation
+see: https://github.com/WildTangles/pydif/blob/master/docs/pydif_docs_final.ipynb for documentation
+
 try out the package! (see: https://pypi.org/project/pydif/)
 
 Group Name:
